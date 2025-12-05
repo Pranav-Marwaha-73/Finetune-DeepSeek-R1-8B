@@ -116,6 +116,7 @@ wandb.log({
   <li>Optimized with Unsloth for speed and low VRAM use</li>
   <li>End-to-end experiment tracking with W&B</li>
 </ul>
+<img width="702" height="915" alt="Screenshot 2025-12-05 181010" src="https://github.com/user-attachments/assets/0eb4d39c-7795-4ad8-9c9c-5898c47169a2" />
 
 <hr>
 
