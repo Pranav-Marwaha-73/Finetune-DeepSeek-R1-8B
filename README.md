@@ -89,6 +89,7 @@ output = model.generate(**inputs, max_new_tokens=256)
 
 print(tokenizer.decode(output[0], skip_special_tokens=True))
 </pre>
+<img width="1916" height="909" alt="Screenshot 2025-12-05 195600" src="https://github.com/user-attachments/assets/937a31df-ac8c-4c5b-817e-4f01e2d2e157" />
 
 <hr>
 
