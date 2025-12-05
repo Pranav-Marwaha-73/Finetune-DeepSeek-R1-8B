@@ -26,9 +26,8 @@
   <li><strong>Recall:</strong> 0.86</li>
   <li><strong>Precision:</strong> 0.84</li>
   <li><strong>Training Loss:</strong> 1.380500</li>
+    <img width="1910" height="791" alt="Screenshot 2025-12-05 194927" src="https://github.com/user-attachments/assets/1ce6a158-019b-4852-8732-849c15970333" />
   <img width="1757" height="606" alt="Screenshot 2025-12-05 184642" src="https://github.com/user-attachments/assets/d737ca13-60be-4871-9c6d-bc7ee7578a3d" />
-<br>
-  <img width="1910" height="791" alt="Screenshot 2025-12-05 194927" src="https://github.com/user-attachments/assets/1ce6a158-019b-4852-8732-849c15970333" />
 
 </ul>
 
@@ -106,6 +105,7 @@ wandb.log({
   "precision": precision
 })
 </pre>
+<img width="1830" height="845" alt="Screenshot 2025-12-05 181520" src="https://github.com/user-attachments/assets/d12ee03f-3281-4ebb-8714-22224182dda9" />
 
 <hr>
 
