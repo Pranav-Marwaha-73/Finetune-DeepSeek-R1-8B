@@ -7,7 +7,7 @@
   <strong>Chain-of-Thought</strong> (CoT) reasoning before providing its final answer.
 </p>
 <h2>Collab Notebook Link:</h2>
-https://colab.research.google.com/drive/1Jhvl_O1_KiDJjqsqRRW-e5cxZFh6ADs6?usp=sharing
+https://shorturl.at/7rByS
 <h2>🔬 Project Overview</h2>
 <ul>
   <li><strong>Base Model:</strong> DeepSeek-R1-8B</li>
